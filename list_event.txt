@@ -1,0 +1,3 @@
+https://raw.githubusercontent.com/baoenzovippro/PatchVHStorage/main/event/ai_event.json
+https://raw.githubusercontent.com/baoenzovippro/PatchVHStorage/main/event/hs2_event.json
+https://raw.githubusercontent.com/baoenzovippro/PatchVHStorage/main/event/togetherbnb_event.json
