@@ -1,0 +1,18 @@
+ANNO 1800,anno1800.jpg,anno1800.json
+Honey Select 2 DX,hs2.jpg,hs2.json
+AI Shoujo,ai.png,ai.json
+Together BnB,togetherbnb.png,togetherbnb.json
+Rune Factory Tides of Destiny,rftod.jpg,rftod.json
+Rune Factory Frontier,rff.jpg,rff.json
+Rune Factory 5,rf5.jpg,rf5.json
+Room Girl,roomgirl.jpg,roomgirl.json
+Mirror 2: Project X,mirror.jpg,mirror.json
+The Immortal Mayor,tim.jpg,tim.json
+Fallen Doll Lovecraft,fall.jpg,fall.json
+Sword and Fairy Inn 2,inn2.jpg,inn2.json
+Tu Tiên Tiểu Thần Nông,imlife.jpg,imlife.json
+Sword and Fairy 7,sw7.jpg,sw7.json
+Thái Ngô Truyền Kỳ,taiwu.jpg,taiwu.json
+Hiên Viên Kiếm 7,hvk7.jpg,hvk7.json
+Trảm Yêu Hành,tyh.png,tyh.json
+Bright Memory: Infinite,bm.jpg,bm.json
