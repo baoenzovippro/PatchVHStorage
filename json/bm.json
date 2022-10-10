@@ -1,0 +1,12 @@
+{
+	"PatchExE": "JWE.exe",
+	"IsInstallPatchVHInLauncher": true,
+	"Version": 1.3,
+	"UrlDownload": "https://raw.githubusercontent.com/baoenzovippro/PatchVHStorage/main/AIShoujo_R11_VietHoa_Baoenzo.zip",
+	"UrlHomePatch": "https://gamenhanvan.wordpress.com/2021/06/28/jurassic-world-evolution-viet-ngu/",
+	"Size": 30612093,
+	"MD5": "0e285e56c00e16b76a1c58e6e2330096",
+	"CreateDate": "10/10/2022",
+	"ModifyDate": "10/10/2022",
+	"IsUpdate": false
+}
