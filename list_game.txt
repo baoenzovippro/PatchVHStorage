@@ -16,3 +16,4 @@ Thái Ngô Truyền Kỳ,taiwu.jpg,taiwu.json
 Hiên Viên Kiếm 7,hvk7.jpg,hvk7.json
 Trảm Yêu Hành,tyh.png,tyh.json
 Bright Memory: Infinite,bm.jpg,bm.json
+Dragon Cliff,dc.jpg,dc.json

@@ -1,11 +1,5 @@
 [
 	{
-		"Name": "Bright Memory Infinite",
-		"Json": "https://github.com/baoenzovippro/PatchVHStorage/raw/main/json/bm.json",
-		"Event": "https://github.com/baoenzovippro/PatchVHStorage/raw/main/json/bm.json",
-		"Img": "https://github.com/baoenzovippro/PatchVHStorage/raw/main/img/bm.jpg"
-	},
-	{
 		"Name": "Honey Select 2 DX",
 		"Json": "",
 		"Event": "https://github.com/baoenzovippro/PatchVHStorage/raw/main/event/hs2_event.json",
