@@ -6,21 +6,21 @@
 		"Img": "https://github.com/baoenzovippro/PatchVHStorage/raw/main/img/bm.jpg"
 	},
 	{
-		"Name": "Bright Memory Infinite2",
-		"Json": "https://github.com/baoenzovippro/PatchVHStorage/raw/main/json/bm.json",
-		"Event": "",
-		"Img": "https://github.com/baoenzovippro/PatchVHStorage/raw/main/img/bm.jpg"
+		"Name": "Honey Select 2 DX",
+		"Json": "",
+		"Event": "https://github.com/baoenzovippro/PatchVHStorage/raw/main/event/hs2_event.json",
+		"Img": ""
 	},
 	{
-		"Name": "Bright Memory Infinite3",
-		"Json": "https://github.com/baoenzovippro/PatchVHStorage/raw/main/json/bm.json",
-		"Event": "",
-		"Img": "https://github.com/baoenzovippro/PatchVHStorage/raw/main/img/bm.jpg"
+		"Name": "AI Shoujo",
+		"Json": "",
+		"Event": "https://github.com/baoenzovippro/PatchVHStorage/raw/main/event/ai_event.json",
+		"Img": ""
 	},
 	{
-		"Name": "Bright Memory Infinite4",
-		"Json": "https://github.com/baoenzovippro/PatchVHStorage/raw/main/json/bm.json",
+		"Name": "Together BnB",
+		"Json": "",
 		"Event": "",
-		"Img": "https://github.com/baoenzovippro/PatchVHStorage/raw/main/img/bm.jpg"
+		"Img": "https://github.com/baoenzovippro/PatchVHStorage/raw/main/event/togetherbnb_event.json"
 	}
 ]
