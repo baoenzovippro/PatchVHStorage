@@ -1,0 +1,26 @@
+[
+  {
+    "icon_id": null,
+    "img": null,
+    "img_hover": null,
+    "qr_img": null,
+    "qr_desc": null,
+    "url": "https://gamenhanvan.wordpress.com/2022/10/11/dragon-cliff-viet-hoa/",
+    "name": null,
+    "title": "Game Việt Hóa mới - Dragon Cliff",
+    "show_time": "10/10",
+    "type": 1
+  },
+  {
+    "icon_id": null,
+    "img": null,
+    "img_hover": null,
+    "qr_img": null,
+    "qr_desc": null,
+    "url": "https://gamenhanvan.wordpress.com/2022/09/30/room-girl-co-gai-van-phong-viet-hoa/",
+    "name": null,
+    "title": "Game Việt Hóa mới - Room Girl - Cô Gái Văn Phòng",
+    "show_time": "30/09",
+    "type": 1
+  }
+]
