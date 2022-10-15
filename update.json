@@ -16,5 +16,11 @@
 		"Json": "",
 		"Event": "",
 		"Img": "https://github.com/baoenzovippro/PatchVHStorage/raw/main/event/togetherbnb_event.json"
+	},
+	{
+		"Name": "Room Girl",
+		"Json": "https://github.com/baoenzovippro/PatchVHStorage/raw/main/json/roomgirl.json",
+		"Event": "",
+		"Img": "https://github.com/baoenzovippro/PatchVHStorage/raw/main/event/roomgirl_event.json"
 	}
 ]
