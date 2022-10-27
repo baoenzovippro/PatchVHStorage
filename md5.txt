@@ -5,6 +5,7 @@ FallenDollOE_VH_Baoenzo: ce2e6e30df7aef8366c383b89c021fc8
 HoneySelect2_DX_R10_VietHoa_Baoenzo: 191593ec135f7781cfc16c85238b651c
 HVK7.Steam.VP.fix.baoenzo: 2dfbfeaf53338985dfa88d2da10b0e6b
 Mirror2ProjectX_baoenzo_vh: 3a29f975a867b7f923a9678101e00492
+RoomGirl.R1.3.VHT.baoenzo: f89070b01aaab0ef35eb3baa0e9ee1dd
 RoomGirl.R1.VHT.baoenzo: f6a5e339cf37b2a5421b0733f4f258b3
 RuneFactory5_VH_baoenzo: 6c51a3cf1ae0a92ddbb037e121dceb17
 sw7_vp_baoenzo: b062614e51a4b054b01672b2c299c090
