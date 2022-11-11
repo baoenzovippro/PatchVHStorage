@@ -1,0 +1,12 @@
+{
+	"PatchExE": "Mystria.exe",
+	"IsInstallPatchVHInLauncher": true,
+	"Version": 1.0,
+	"UrlDownload": "https://raw.githubusercontent.com/baoenzovippro/PatchVHStorage/main/Patch/Mystria_VH_baoenzo.zip",
+	"UrlHomePatch": "https://gamenhanvan.wordpress.com/2022/10/28/mysteria-occult-shadows-viet-hoa/",
+	"Size": 1170641,
+	"MD5": "6ce483ff6a98f2bc0a28bb6b5528f77a",
+	"CreateDate": "11/11/2022",
+	"ModifyDate": "11/11/2022",
+	"IsUpdate": false
+}

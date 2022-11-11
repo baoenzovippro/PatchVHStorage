@@ -1,0 +1,12 @@
+{
+	"PatchExE": "Harvestella.exe",
+	"IsInstallPatchVHInLauncher": true,
+	"Version": 1.0,
+	"UrlDownload": "https://raw.githubusercontent.com/baoenzovippro/PatchVHStorage/main/Patch/Harvestella_vh_tho_baoenzo_beta_testv1.zip",
+	"UrlHomePatch": "https://gamenhanvan.wordpress.com/2022/11/10/harvestella-viet-hoa/",
+	"Size": 2405747,
+	"MD5": "d743edecc57654ef252fc74d42473e2b",
+	"CreateDate": "11/11/2022",
+	"ModifyDate": "11/11/2022",
+	"IsUpdate": false
+}
