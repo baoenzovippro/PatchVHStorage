@@ -22,5 +22,23 @@
 		"Json": "https://github.com/baoenzovippro/PatchVHStorage/raw/main/json/roomgirl.json",
 		"Event": "https://github.com/baoenzovippro/PatchVHStorage/raw/main/event/roomgirl_event.json",
 		"Img": ""
+	},
+	{
+		"Name": "Doraemon Friends of the Great Kingdom",
+		"Json": "https://github.com/baoenzovippro/PatchVHStorage/raw/main/json/doremonfokd.json",
+		"Event": "https://github.com/baoenzovippro/PatchVHStorage/raw/main/event/doremonfokd_event.json",
+		"Img": "https://raw.githubusercontent.com/baoenzovippro/PatchVHStorage/main/img/doremonfokd.png"
+	},
+	{
+		"Name": "Harvestella",
+		"Json": "https://github.com/baoenzovippro/PatchVHStorage/raw/main/json/harvestella.json",
+		"Event": "https://github.com/baoenzovippro/PatchVHStorage/raw/main/event/harvestella_event.json",
+		"Img": "https://raw.githubusercontent.com/baoenzovippro/PatchVHStorage/main/img/harvestella.jpg"
+	},
+	{
+		"Name": "Mysteria Occult Shadows",
+		"Json": "https://github.com/baoenzovippro/PatchVHStorage/raw/main/json/mystria.json",
+		"Event": "https://github.com/baoenzovippro/PatchVHStorage/raw/main/event/mystria_event.json",
+		"Img": "https://raw.githubusercontent.com/baoenzovippro/PatchVHStorage/main/img/mystria.jpg"
 	}
 ]
