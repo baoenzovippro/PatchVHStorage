@@ -1,0 +1,37 @@
+{
+  "MetadataV2": {
+    "Honkai Impact 3rd": {
+      "Southeast Asia": {
+        "ProfileName": "ToBnB",
+        "GameChannel": "Stable",
+        "IsExperimental": false,
+        "ZoneName": "Việt Hóa",
+        "ZoneFullname": "Together BnB",
+        "ZoneDescription": "Together BnB - Tận hưởng chuyến du lịch của mình bên những bóng hồng xinh đẹp.",
+        "ZoneURL": "https://honkaiimpact3.hoyoverse.com/asia/en-us/fab",
+        "ZoneLogoURL": "https://github.com/neon-nyan/CollapseLauncher-ReleaseRepo/raw/main/metadata/game_logos/logo_honkai.png",
+        "ZonePosterURL": "https://github.com/neon-nyan/CollapseLauncher-ReleaseRepo/raw/main/metadata/game_posters/poster_honkai.png",
+        "InstallRegistryLocation": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\Uninstall\\Together BnB",
+        "DefaultGameLocation": "C:\\Program Files\\Together BnB",
+        "ConfigRegistryLocation": "Software\\miHoYo\\Together BnB",
+        "BetterHi3LauncherVerInfoReg": "VersionInfoVI",
+        "DictionaryHost": "https://gamenhanvan.wordpress.com/",
+        "FallbackLanguage": "vi",
+        "GameDirectoryName": "Games",
+        "GameExecutableName": "TogetherBnB.exe",
+        "ZipFileURL": "https://raw.githubusercontent.com/baoenzovippro/PatchVHStorage/main/Patch/TogetherBNB_vh_baoenzo.zip",
+        "CachesListAPIURL": "https://prophost.ironmaid.xyz/api/updatepackage?platform=0&datatype={0}&gamever={1}&usenewformat=true",
+        "CachesListGameVerID": 2,
+        "CachesEndpointURL": "",
+        "IsHideSocMedDesc": false,
+        "UseRightSideProgress": true,
+        "LauncherSpriteURL": "https://sdk-static.mihoyo.com/bh3_cn/mdk/launcher/api/content?key=SyvuPnqL&filter_adv=false&language=zh-cn&launcher_id=4",
+        "LauncherResourceURL": "https://sdk-static.mihoyo.com/bh3_cn/mdk/launcher/api/resource?channel_id=1&key=SyvuPnqL&launcher_id=4&sub_channel_id=1",
+        "IsRepairEnabled": true,
+        "IsCacheUpdateEnabled": true,
+        "InternalGameNameFolder": "Together BnB",
+        "InternalGameNameInConfig": "Together BnB"
+      }
+    }
+  }
+}
